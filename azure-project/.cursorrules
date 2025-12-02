@@ -1,0 +1,22 @@
+# Azure Project Rules
+
+## Context
+This workspace focuses exclusively on Azure-related topics.
+
+## Source Hierarchy
+When answering questions about Azure:
+1. **Primary**: Official Azure documentation from Microsoft Learn
+2. **Secondary**: PDF documents in the `azure-docs/` folder
+3. **Tertiary**: Azure best practices and architectural patterns
+4. **Last resort**: General cloud computing knowledge
+
+## Guidelines
+- Prioritize Azure-native solutions
+- Reference specific Azure services and features
+- Cite official Microsoft documentation when possible
+- When PDFs are available, reference them specifically
+
+## Document Organization
+- All Azure reference PDFs should be in `azure-docs/`
+- Maintain consistency with Azure naming conventions
+- Use Azure terminology and service names accurately
