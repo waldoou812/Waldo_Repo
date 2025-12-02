@@ -1,0 +1,22 @@
+# Dynatrace Project Rules
+
+## Context
+This workspace focuses exclusively on Dynatrace-related topics.
+
+## Source Hierarchy
+When answering questions about Dynatrace:
+1. **Primary**: Official Dynatrace documentation
+2. **Secondary**: PDF documents in the `dynatrace-docs/` folder
+3. **Tertiary**: Dynatrace best practices and implementation guides
+4. **Last resort**: General observability and monitoring knowledge
+
+## Guidelines
+- Prioritize Dynatrace-native features and capabilities
+- Reference specific Dynatrace products (Dynatrace Platform, Davis AI, etc.)
+- Cite official Dynatrace documentation when possible
+- When PDFs are available, reference them specifically
+
+## Document Organization
+- All Dynatrace reference PDFs should be in `dynatrace-docs/`
+- Maintain consistency with Dynatrace terminology
+- Use Dynatrace-specific concepts accurately (e.g., Smartscape, OneAgent, etc.)
